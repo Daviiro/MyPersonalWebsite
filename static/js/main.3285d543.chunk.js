@@ -1,0 +1,2 @@
+(this.webpackJsonpmysite=this.webpackJsonpmysite||[]).push([[0],{4:function(e,t,s){"use strict";s.r(t);var n=s(2),o=(s(1),s(3)),r=s.n(o),c=Object(n.jsx)("h1",{children:"Hello World"});r.a.render(c,document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.3285d543.chunk.js.map
