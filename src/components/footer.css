@@ -1,0 +1,10 @@
+.footer__social {
+  height: 100px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#cop {
+  margin-bottom: 10px;
+}
